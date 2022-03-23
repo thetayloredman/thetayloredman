@@ -1,4 +1,4 @@
-# Hi, I'm BadBoyHaloCat.
+# Hi, I'm 0xLogN.
 
 Hi. You stumbled upon my GitHub profile... I have no idea how.. But you did.
 
@@ -15,10 +15,21 @@ I know some, but not *all* (of course I don't know every language) programming l
 * Markdown (does it even count?)
 * HTML (does it even count?)
 * Assembly (some of it at least)
+* C++
+* Objective-C
+* Swift
+* TypeScript
+
+## Tools I use
+
+* NodeJS
+* React
+* React-Native
+* FFX Dev
 
 ## My site
 
-Looking for more information about *me*? See my website: [`https://badboyhalocat.tk/`](https://badboyhalocat.tk/)
+Looking for more information about *me*? See my website: [`https://logn.tk/`](https://logn.tk/)
 
 ## Some pog stats
 
@@ -26,9 +37,9 @@ Looking for more information about *me*? See my website: [`https://badboyhalocat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetayloredman)](https://github.com/anuraghazra/github-readme-stats)
 
-## My favorite projects
+## My favorite tools
 
-I have to credit the projects I love!
+I have to credit the projects & tools I love!
 
 [![Discord.js](https://github-readme-stats.vercel.app/api/pin/?username=discordjs&repo=discord.js)](https://github.com/anuraghazra/github-readme-stats)
 [![Node.js](https://github-readme-stats.vercel.app/api/pin/?username=nodejs&repo=node)](https://github.com/anuraghazra/github-readme-stats)
