@@ -1,45 +1,20 @@
-# Hi, I'm 0xLogN.
+<h1 align="center">Hi. I'm 0xLogN.</h1>
 
-Hi. You stumbled upon my GitHub profile... I have no idea how.. But you did.
+<sub>List of known programming languages, in order of my usage/knowledge</sub>
 
-Anyways, I'll introduce myself.
+![ts](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png)
+![js](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript_32x32.png)
+![html](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html_32x32.png)
+![css](https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_32x32.png)
+![cpp](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp_32x32.png)
+![c](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c_32x32.png)
 
-I'm a software developer and I *really* like JavaScript.. Like **really** like JavaScript.
-
-## Languages I know
-
-I know some, but not *all* (of course I don't know every language) programming languages. Here's a list:
-
-* JavaScript
-* CoffeeScript
-* Markdown (does it even count?)
-* HTML (does it even count?)
-* Assembly (some of it at least)
-* C++
-* Objective-C
-* Swift
-* TypeScript
-
-## Tools I use
-
-* NodeJS
-* React
-* React-Native
-* FFX Dev
+<sup>Note: I could not find logos for many others.</sup>
 
 ## My site
 
-Looking for more information about *me*? See my website: [`https://logn.tk/`](https://logn.tk/)
-
-## Some pog stats
+Looking for more information about *me*? See my website at [`0xlogn.dev`](https://0xlogn.dev)
 
 ![BadBoyHaloCat's github stats](https://github-readme-stats.vercel.app/api?username=thetayloredman&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetayloredman)](https://github.com/anuraghazra/github-readme-stats)
-
-## My favorite tools
-
-I have to credit the projects & tools I love!
-
-[![Discord.js](https://github-readme-stats.vercel.app/api/pin/?username=discordjs&repo=discord.js)](https://github.com/anuraghazra/github-readme-stats)
-[![Node.js](https://github-readme-stats.vercel.app/api/pin/?username=nodejs&repo=node)](https://github.com/anuraghazra/github-readme-stats)
